@@ -7,14 +7,12 @@ https://github.com/rtrouton/rtrouton_scripts/tree/master/rtrouton_scripts/Casper
 https://github.com/rtrouton/rtrouton_scripts/tree/master/rtrouton_scripts/filevault_2_encryption_check
 https://github.com/jamfprofessionalservices
 https://github.com/jamf
-
 https://github.com/ninxsoft/JamfProSwitcher
 https://github.com/erikberglund/ProfileCreator/
 https://github.com/JeremyAgost/Hancock
 https://github.com/smashism (Emily has way better links than this whole presentation, just go here)
 https://github.com/pbowden-msft (macadmins.software!)
 https://github.com/autopkg/autopkg
-
 https://github.com/lindegroup/autopkgr
 https://github.com/kc9wwh/macOSUpgrade
 https://github.com/haircut/better-jamf-policy-deferral
