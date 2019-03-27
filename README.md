@@ -30,7 +30,7 @@ https://github.com/kc9wwh/macOSUpgrade
 
 https://github.com/haircut/better-jamf-policy-deferral
 
-https://gist.github.com/homebysix/b35f1979d5b11e00602c (this URL sucks, I couldn’t find this project)
+https://gist.github.com/homebysix/b35f1979d5b11e00602c (Shard, good EA/project for categorizing machines for phased deployments)
 
 https://github.com/jamf/Encrypted-Script-Parameters
 
@@ -50,6 +50,6 @@ https://www.jamf.com/jamf-nation/discussions/28360/list-of-configuration-profile
 
 https://developer.apple.com/business/documentation/Configuration-Profile-Reference.pdf
 
-https://nstrauss.info/
+https://nstrauss.info/ - good docs/info for NoMAD and NoLo integration, super active in the #NoMADLogin channel
 
 https://nomad.menu/
